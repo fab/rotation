@@ -1,9 +1,9 @@
-Rotate.pw
-===
+Rotation
+========
 
 A novelty demo of image rotation using the CSS -webkit-transform.
 
-Check it out at [rotate.pw](http://rotate.pw) but make sure not to stare for too long.
+Check it out [here](http://rotation.herokuapp.com).
 
 ## To Do:
 * Allow users to upload an image of their choosing
