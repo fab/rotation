@@ -3,7 +3,7 @@ Rotation
 
 A novelty demo of image rotation using the CSS -webkit-transform.
 
-Check it out [here](http://rotation.herokuapp.com).
+Check it out [here](http://fabsays.com/rotation).
 
 ## To Do:
 * Allow users to upload an image of their choosing
