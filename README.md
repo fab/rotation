@@ -9,3 +9,4 @@ Check it out [here](http://rotation.herokuapp.com).
 * Allow users to upload an image of their choosing
 * Add a slider so that rotation speed can be controlled
 * Use a more intelligent method to determine how many photos need to be on the page
+* Get it working on browsers that don't use webkit
